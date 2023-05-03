@@ -1,0 +1,222 @@
+,draft_year,draft_round,pick_no,team,prospect_name,prospect_id,dob,birth_country,height,weight,catches,nhl_id,position,prospect_category,amateur_league,amateur_team,nhl_games_played,200+games
+0,2009,2,31,New York Islanders,Mikko Koskinen,37608,1988-07-18,FIN,"6' 5""",191,L,8475156,G,European Goalie,FINLAND,Blues,168,0
+1,2009,2,46,Ottawa Senators,Robin Lehner,14101,1991-07-24,SWE,"6' 3""",220,L,8475215,G,North American Goalie,SWEDEN-JR.,Frolunda Jr.,364,1
+2,2009,3,62,New York Islanders,Anders Nilsson,42235,1990-03-19,SWE,"6' 5""",226,L,8475195,G,European Goalie,SWEDEN-JR.,Lulea Jr.,161,0
+3,2009,3,76,Anaheim Ducks,Igor Bobkov,29013,1991-01-02,RUS,"6' 6""",236,L,8475251,G,North American Goalie,RUSSIA-3,Magnitogorsk 2,0,0
+4,2009,3,77,Minnesota Wild,Matt Hackett,9772,1990-03-07,CAN,"6' 2""",178,L,8475252,G,North American Goalie,OHL,Plymouth,26,0
+5,2009,3,81,Philadelphia Flyers,Adam Morrison,17433,1991-02-09,CAN,"6' 2""",188,L,8475244,G,North American Goalie,WHL,Saskatoon,0,0
+6,2009,3,91,Phoenix Coyotes,Michael Lee,14037,1990-10-05,USA,"6' 1""",185,L,8475230,G,North American Goalie,USHL,Fargo,0,0
+7,2009,4,95,Los Angeles Kings,J-F Berube,1681,1991-07-13,CAN,"6' 1""",170,L,8475234,G,North American Goalie,QMJHL,Montreal,40,0
+8,2009,4,117,Atlanta Thrashers,Edward Pasquale,18985,1990-11-20,CAN,"6' 2""",218,L,8475277,G,North American Goalie,OHL,Saginaw,3,0
+9,2009,5,124,Colorado Avalanche,Kieran Millan,16901,1989-08-31,CAN,"6' 0""",190,L,8475272,G,North American Goalie,H-EAST,Boston University,0,0
+10,2009,5,133,Edmonton Oilers,Olivier Roy,21265,1991-07-12,CAN,"6' 0""",194,L,8475258,G,North American Goalie,QMJHL,Cape Breton,0,0
+11,2009,5,140,New York Rangers,Scott Stajcer,23299,1991-06-14,CAN,"6' 2""",195,L,8475255,G,North American Goalie,OHL,Owen Sound,0,0
+12,2009,5,142,Philadelphia Flyers,Nicola Riopel,20747,1989-02-20,CAN,"6' 0""",175,L,8474809,G,North American Goalie,QMJHL,Moncton,0,0
+13,2009,5,148,Tampa Bay Lightning,Michael Zador,26739,1991-05-08,CAN,"6' 2""",177,L,8475322,G,North American Goalie,OHL,Oshawa,0,0
+14,2009,6,154,Colorado Avalanche,Brandon Maxwell,15845,1991-03-22,USA,"6' 1""",196,L,8475316,G,North American Goalie,USDP,USA U-18,0,0
+15,2009,6,161,Minnesota Wild,Darcy Kuemper,13158,1990-05-05,CAN,"6' 4""",206,L,8475311,G,North American Goalie,WHL,Red Deer,356,1
+16,2009,6,162,Tampa Bay Lightning,Jaroslav Janus,11627,1989-09-21,SVK,"6' 0""",194,L,8475312,G,North American Goalie,OHL,Erie,0,0
+17,2009,6,164,Buffalo Sabres,Connor Knapp,12754,1990-05-01,USA,"6' 5""",215,L,8475303,G,North American Goalie,CCHA,Miami University,2,0
+18,2009,6,171,Calgary Flames,Joni Ortio,42986,1991-04-16,FIN,"6' 1""",187,L,8475299,G,European Goalie,Finland Jr.,TPS Jr.,37,0
+19,2009,6,173,Vancouver Canucks,Joe Cannata,3486,1990-01-02,USA,"6' 1""",200,L,8475300,G,North American Goalie,H-EAST,Merrimack,0,0
+20,2009,7,211,Montréal Canadiens,Petteri Simila,47128,1990-04-09,FIN,"6' 5""",207,L,8475326,G,European Goalie,Finland Jr.,Karpat Jr.,0,0
+21,2010,1,11,Dallas Stars,Jack Campbell,3431,1992-01-09,USA,"6' 2""",175,L,8475789,G,North American Goalie,USHL,USA U-18,171,0
+22,2010,1,27,Phoenix Coyotes,Mark Visentin,25376,1992-08-07,CAN,"6' 2""",201,L,8475771,G,North American Goalie,OHL,Niagara,1,0
+23,2010,2,49,Colorado Avalanche,Calvin Pickard,19556,1992-04-15,CAN,"6' 0""",195,L,8475717,G,North American Goalie,WHL,Seattle,116,0
+24,2010,2,58,Chicago Blackhawks,Kent Simpson,22591,1992-03-26,CAN,"6' 2""",190,L,8475720,G,North American Goalie,WHL,Everett,1,0
+25,2010,3,84,New Jersey Devils,Scott Wedgewood,25820,1992-08-14,CAN,"6' 2""",185,L,8475809,G,North American Goalie,OHL,Plymouth,98,0
+26,2010,4,92,Florida Panthers,Sam Brittain,2759,1992-05-10,CAN,"6' 3""",215,L,8475821,G,North American Goalie,AJHL,Canmore,0,0
+27,2010,4,102,Columbus Blue Jackets,Mathieu Corbeil,4780,1991-09-27,CAN,"6' 5""",201,L,8475819,G,North American Goalie,QMJHL,Halifax,0,0
+28,2010,4,107,Colorado Avalanche,Sami Aittokallio,27268,1992-08-06,FIN,"6' 1""",185,L,8475824,G,European Goalie,Finland Jr.,Ilves Jr.,2,0
+29,2010,4,112,Washington Capitals,Philipp Grubauer,9619,1991-11-25,DEU,"6' 1""",185,L,8475831,G,North American Goalie,OHL,Windsor,308,1
+30,2010,5,121,Edmonton Oilers,Tyler Bunz,3089,1992-02-11,CAN,"6' 1""",200,L,8475781,G,North American Goalie,WHL,Medicine Hat,1,0
+31,2010,5,128,Atlanta Thrashers,Fredrik Pettersson-Wentzel,43849,1991-07-23,SWE,"6' 1""",189,L,8475840,G,European Goalie,SWEDEN-2,Almtuna,0,0
+32,2010,5,138,Phoenix Coyotes,Louis Domingue,6334,1992-03-06,CAN,"6' 3""",191,R,8475839,G,North American Goalie,QMJHL,Quebec,142,0
+33,2010,5,141,Detroit Red Wings,Petr Mrazek,17578,1992-02-14,CZE,"6' 0""",184,L,8475852,G,North American Goalie,OHL,Ottawa,334,1
+34,2010,6,159,Minnesota Wild,Johan Gustafsson,33204,1992-02-28,SWE,"6' 2""",202,L,8475860,G,European Goalie,SWEDEN-JR. 2,Farjestad Jr.,0,0
+35,2010,6,165,Boston Bruins,Zane Mcintyre,9247,1992-08-20,USA,"6' 2""",190,L,8475876,G,North American Goalie,HIGH-MN,Thief River Falls,8,0
+36,2010,6,174,New Jersey Devils,Maxime Clermont,4381,1991-12-31,CAN,"6' 0""",190,L,8475805,G,North American Goalie,QMJHL,Gatineau,0,0
+37,2010,6,175,Vancouver Canucks,Jonathan Iilahti,34814,1992-04-27,FIN,"6' 1""",176,L,8475909,G,European Goalie,Finland Jr.,Blues Jr.,0,0
+38,2010,7,184,Columbus Blue Jackets,Martin Ouellette,18660,1991-12-30,CAN,"6' 1""",160,L,8475910,G,North American Goalie,HIGH-NH,Kimball Union Academy,0,0
+39,2010,7,185,New York Islanders,Cody Rosen,21097,1990-09-27,NaN,"5' 11""",180,L,8475880,G,North American Goalie,ECAC,Clarkson U.,0,0
+40,2010,7,187,Carolina Hurricanes,Frederik Andersen,93577,1989-10-02,NaN,"6' 4""",230,R,8475883,G,North American Goalie,SWEDEN,Frolunda,479,1
+41,2010,7,187,Carolina Hurricanes,Frederik Andersen,93577,1989-10-02,NaN,"6' 4""",230,R,8475883,G,North American Goalie,SWEDEN,Frolunda,479,1
+42,2012,3,87,Anaheim Ducks,Frederik Andersen,93577,1989-10-02,NaN,"6' 4""",230,R,8475883,G,North American Goalie,SWEDEN,Frolunda,479,1
+43,2012,3,87,Anaheim Ducks,Frederik Andersen,93577,1989-10-02,NaN,"6' 4""",230,R,8475883,G,North American Goalie,SWEDEN,Frolunda,479,1
+44,2010,7,191,Chicago Blackhawks,Mac Carruth,3702,1992-03-25,USA,"6' 2""",169,L,8475879,G,North American Goalie,WHL,Portland,0,0
+45,2011,2,38,Nashville Predators,Magnus Hellberg,33912,1991-04-04,SWE,"6' 5""",187,L,8476433,G,European Goalie,SWEDEN-2,Almtuna,23,0
+46,2011,2,39,Anaheim Ducks,John Gibson,8828,1993-07-14,USA,"6' 3""",226,L,8476434,G,North American Goalie,USHL,USA U-18,431,1
+47,2011,2,49,Los Angeles Kings,Christopher Gibson,8824,1992-12-27,FIN,"6' 2""",192,L,8476444,G,North American Goalie,QMJHL,Chicoutimi,16,0
+48,2011,3,62,Edmonton Oilers,Samu Perhonen,43632,1993-03-07,FIN,"6' 5""",205,L,8476387,G,European Goalie,Finland Jr.,JYP Jr.,0,0
+49,2011,3,71,Vancouver Canucks,David Honzik,10965,1993-08-09,CZE,"6' 3""",213,L,8476395,G,North American Goalie,QMJHL,Victoriaville,0,0
+50,2011,3,88,St. Louis Blues,Jordan Binnington,1817,1993-07-11,CAN,"6' 2""",169,L,8476412,G,North American Goalie,OHL,Owen Sound,223,1
+51,2011,4,117,Washington Capitals,Steffen Soberg,47677,1993-08-06,NOR,"5' 11""",176,L,8476359,G,European Goalie,NORWAY,Manglerud,0,0
+52,2011,5,132,St. Louis Blues,Niklas Lundstrom,39952,1993-01-10,SWE,"6' 2""",194,L,8476373,G,European Goalie,SWEDEN-JR.,AIK Jr.,0,0
+53,2011,6,157,Winnipeg Jets,Jason Kasdorf,12218,1992-05-18,CAN,"6' 4""",190,L,8476309,G,North American Goalie,MJHL,Portage,1,0
+54,2011,6,161,Minnesota Wild,Steve Michalek,16826,1993-08-06,USA,"6' 2""",196,L,8476313,G,North American Goalie,HIGH-CT,Loomis-Chaffee,0,0
+55,2011,6,163,Carolina Hurricanes,Matt Mahalak,15237,1993-01-22,USA,"6' 2""",186,L,8476315,G,North American Goalie,OHL,Plymouth,0,0
+56,2011,6,164,Calgary Flames,Laurent Brossoit,2838,1993-03-23,CAN,"6' 3""",200,L,8476316,G,North American Goalie,WHL,Edmonton,117,0
+57,2011,6,167,Buffalo Sabres,Nathan Lieuwen,14393,1991-08-08,CAN,"6' 5""",185,L,8476319,G,North American Goalie,WHL,Kootenay,7,0
+58,2011,6,178,Tampa Bay Lightning,Adam Wilcox,26133,1992-11-26,USA,"6' 1""",178,L,8476330,G,North American Goalie,USHL,Green Bay,1,0
+59,2011,6,181,Boston Bruins,Lars Volden,50806,1992-07-26,NOR,"6' 3""",209,L,8476333,G,European Goalie,Finland Jr.,Blues Jr.,0,0
+60,2011,7,182,Edmonton Oilers,Frans Tuohimaa,49803,1991-08-19,FIN,"6' 2""",178,L,8476334,G,European Goalie,Finland Jr.,Jokerit Jr.,0,0
+61,2011,7,188,Columbus Blue Jackets,Anton Forsberg,32022,1992-11-27,SWE,"6' 3""",183,L,8476341,G,European Goalie,SWEDEN-JR.,Modo Jr.,130,0
+62,2011,7,190,Toronto Maple Leafs,Garret Sparks,23151,1993-06-28,USA,"6' 2""",209,L,8476343,G,North American Goalie,OHL,Guelph,40,0
+63,2011,7,211,Chicago Blackhawks,Johan Mattsson,40771,1992-04-25,SWE,"6' 4""",200,L,8476295,G,European Goalie,SWEDEN-JR.,Sodertalje Jr.,0,0
+64,2012,1,19,Tampa Bay Lightning,Andrei Vasilevskiy,50342,1994-07-25,RUS,"6' 4""",201,L,8476883,G,European Goalie,RUSSIA,Ufa 2,425,1
+65,2012,1,24,Boston Bruins,Malcolm Subban,23753,1993-12-21,CAN,"6' 2""",201,L,8476876,G,North American Goalie,OHL,Belleville,86,0
+66,2012,2,31,Columbus Blue Jackets,Oscar Dansk,30469,1994-02-28,SWE,"6' 3""",201,L,8476861,G,North American Goalie,SWEDEN-JR.,Brynas Jr.,6,0
+67,2012,2,45,Philadelphia Flyers,Anthony Stolarz,23592,1994-01-20,USA,"6' 6""",220,L,8476932,G,North American Goalie,NAHL,Corpus Christi,81,0
+68,2012,3,62,Columbus Blue Jackets,Joonas Korpisalo,37547,1994-04-28,FIN,"6' 3""",181,L,8476914,G,European Goalie,Finland Jr.,Jokerit Jr.,221,1
+69,2012,3,69,Carolina Hurricanes,Daniel Altshuller,265,1994-07-24,CAN,"6' 4""",205,L,8476909,G,North American Goalie,OHL,Oshawa,0,0
+70,2012,3,75,Calgary Flames,Jon Gillies,8899,1994-01-22,USA,"6' 5""",216,L,8476903,G,North American Goalie,USHL,Indiana,35,0
+71,2012,3,76,Ottawa Senators,Chris Driedger,6529,1994-05-18,CAN,"6' 3""",199,L,8476904,G,North American Goalie,WHL,Calgary,65,0
+72,2012,3,80,Detroit Red Wings,Jake Paterson,19003,1994-05-03,CAN,"6' 1""",186,L,8476896,G,North American Goalie,OHL,Saginaw,0,0
+73,2012,3,83,Pittsburgh Penguins,Matt Murray,17744,1994-05-25,CAN,"6' 4""",174,L,8476899,G,North American Goalie,OHL,Sault Ste. Marie,272,1
+74,2012,4,113,Pittsburgh Penguins,Sean Maguire,53173,1993-02-02,CAN,"6' 1""",203,L,8476963,G,North American Goalie,BCHL,Powell River,0,0
+75,2012,5,130,Winnipeg Jets,Connor Hellebuyck,54646,1993-05-19,USA,"6' 4""",185,L,8476945,G,North American Goalie,NAHL,Odessa,445,1
+76,2012,5,144,Dallas Stars,Henri Kiviaho,36810,1994-02-26,FIN,"6' 4""",194,L,8477026,G,European Goalie,Finland Jr.,Kalpa Jr.,0,0
+77,2012,5,146,St. Louis Blues,Francois Tremblay,24693,1994-08-29,CAN,"6' 2""",185,L,8477017,G,North American Goalie,QMJHL,Val d'Or,0,0
+78,2012,6,159,Carolina Hurricanes,Collin Olson,18531,1994-04-04,USA,"6' 3""",213,L,8477007,G,North American Goalie,USHL,USA U-18,0,0
+79,2012,6,163,Buffalo Sabres,Linus Ullmark,49978,1993-07-31,SWE,"6' 3""",194,L,8476999,G,North American Goalie,SWEDEN-JR.,Modo Jr.,207,1
+80,2012,6,166,Ottawa Senators,Francois Brassard,2626,1994-01-31,CAN,"6' 2""",165,L,8477002,G,North American Goalie,QMJHL,Quebec,0,0
+81,2012,6,179,Nashville Predators,Marek Mazanec,40855,1991-07-18,CZE,"6' 4""",187,R,8476992,G,European Goalie,Czech Republic,Plzen,31,0
+82,2012,7,184,Phoenix Coyotes,Marek Langhamer,38820,1994-07-22,CZE,"6' 2""",189,L,8476986,G,North American Goalie,CZREP-JR.,Pardubice Jr.,2,0
+83,2012,7,190,Winnipeg Jets,Jamie Phillips,19516,1993-03-24,CAN,"6' 1""",170,L,8477050,G,North American Goalie,OJHL,Toronto JC,0,0
+84,2012,7,191,Chicago Blackhawks,Brandon Whitney,26072,1994-05-11,CAN,"6' 5""",204,L,8477051,G,North American Goalie,QMJHL,Victoriaville,0,0
+85,2012,7,199,Chicago Blackhawks,Matt Tomkins,53238,1994-06-19,CAN,"6' 3""",194,L,8477035,G,North American Goalie,AJHL,Sherwood Park,0,0
+86,2012,7,203,Washington Capitals,Sergey Kostenko,37642,1992-09-17,RUS,"5' 11""",187,L,8477039,G,European Goalie,RUSSIA-JR.,Novokuznetsk 2,0,0
+87,2013,2,36,Montréal Canadiens,Zach Fucale,8264,1995-05-28,CAN,"6' 2""",180,L,8477457,G,North American Goalie,QMJHL,Halifax,4,0
+88,2013,2,44,Pittsburgh Penguins,Tristan Jarry,11654,1995-04-29,CAN,"6' 1""",185,L,8477465,G,North American Goalie,WHL,Edmonton,206,1
+89,2013,2,54,Dallas Stars,Philippe Desrosiers,6022,1995-08-16,CAN,"6' 1""",190,L,8477475,G,North American Goalie,QMJHL,Rimouski,0,0
+90,2013,2,59,Winnipeg Jets,Eric Comrie,4609,1995-07-06,CAN,"6' 1""",167,L,8477480,G,North American Goalie,WHL,Tri-City,47,0
+91,2013,3,63,Colorado Avalanche,Spencer Martin,15701,1995-06-08,CAN,"6' 3""",206,L,8477484,G,North American Goalie,OHL,Mississauga,38,0
+92,2013,3,70,New York Islanders,Eamon Mcadam,15920,1994-09-24,USA,"6' 2""",188,L,8477438,G,North American Goalie,USHL,Waterloo,0,0
+93,2013,3,78,Ottawa Senators,Marcus Hogberg,34219,1994-11-25,SWE,"6' 5""",218,L,8477405,G,European Goalie,SWEDEN-JR.,Linkoping Jr.,42,0
+94,2013,4,92,Florida Panthers,Evan Cowley,56525,1995-07-31,CAN,"6' 4""",200,L,8477418,G,North American Goalie,NAHL,Wichita Falls,0,0
+95,2013,4,99,Nashville Predators,Juuse Saros,46130,1995-04-19,FIN,"5' 11""",178,L,8477424,G,European Goalie,Finland Jr.,HPK Jr.,286,1
+96,2013,4,106,New York Islanders,Stephon Williams,26232,1993-04-28,USA,"6' 2""",194,L,8477431,G,North American Goalie,WCHA,Minnesota State,0,0
+97,2013,4,117,San Jose Sharks,Fredrik Bergvik,55621,1995-02-14,SWE,"6' 2""",194,L,8477443,G,European Goalie,SWEDEN-JR.,Frolunda Jr.,0,0
+98,2013,5,124,Tampa Bay Lightning,Kristers Gudlevskis,33087,1992-07-31,LVA,"6' 4""",212,L,8477356,G,North American Goalie,RUSSIA-JR.,Riga 2,3,0
+99,2013,5,129,Buffalo Sabres,Cal Petersen,19379,1994-10-19,USA,"6' 2""",172,R,8477361,G,North American Goalie,USHL,Waterloo,101,0
+100,2013,5,146,Los Angeles Kings,Patrik Bartosak,28258,1993-03-29,CZE,"6' 1""",194,L,8477378,G,North American Goalie,WHL,Red Deer,0,0
+101,2013,6,162,Philadelphia Flyers,Merrick Madsen,54226,1995-08-22,USA,"6' 4""",184,L,8477395,G,North American Goalie,HIGH-NH,Proctor Academy,0,0
+102,2013,6,163,Phoenix Coyotes,Brendan Burke,3125,1995-03-11,USA,"6' 4""",185,L,8477396,G,North American Goalie,WHL,Portland,0,0
+103,2013,6,170,New York Rangers,Mackenzie Skapski,22670,1994-06-15,CAN,"6' 2""",186,L,8477084,G,North American Goalie,WHL,Kootenay,2,0
+104,2013,6,172,Toronto Maple Leafs,Antoine Bibeau,1739,1994-05-01,CAN,"6' 2""",210,L,8477312,G,North American Goalie,QMJHL,PEI,4,0
+105,2013,7,200,Minnesota Wild,Alexandre Belanger,1382,1995-08-19,CAN,"6' 1""",192,L,8477339,G,North American Goalie,QMJHL,Rouyn-Noranda,0,0
+106,2013,7,203,Nashville Predators,Janne Juvonen,35778,1994-10-03,FIN,"6' 1""",183,L,8477342,G,European Goalie,Finland Jr.,Pelicans Jr.,0,0
+107,2013,7,208,New Jersey Devils,Anthony Brodeur,53033,1995-06-08,USA,"5' 10""",196,L,8477348,G,North American Goalie,HIGH-MN,Shattuck-St. Mary's,0,0
+108,2014,2,34,Calgary Flames,Mason Mcdonald,55100,1996-04-23,CAN,"6' 4""",204,R,8477965,G,North American Goalie,QMJHL,Charlottetown,0,0
+109,2014,2,36,Vancouver Canucks,Thatcher Demko,5885,1995-12-08,USA,"6' 4""",199,L,8477967,G,North American Goalie,H-EAST,Boston College,168,0
+110,2014,2,37,Carolina Hurricanes,Alex Nedeljkovic,54889,1996-01-07,USA,"6' 0""",192,L,8477968,G,North American Goalie,OHL,Plymouth,103,0
+111,2014,2,39,Washington Capitals,Vitek Vanecek,57498,1996-01-09,CZE,"6' 1""",180,L,8477970,G,North American Goalie,CZREP-JR.,Liberec Jr.,131,0
+112,2014,2,59,New York Rangers,Brandon Halverson,54893,1996-03-29,USA,"6' 4""",203,L,8477990,G,North American Goalie,OHL,Sault Ste. Marie,1,0
+113,2014,3,61,Buffalo Sabres,Jonas Johansson,53553,1995-09-19,SWE,"6' 4""",198,L,8477992,G,European Goalie,SWEDEN-JR.,Brynas Jr.,35,0
+114,2014,3,76,Columbus Blue Jackets,Elvis Merzlikins,41028,1994-04-13,LVA,"6' 3""",192,L,8478007,G,European Goalie,SWISS,Lugano,150,0
+115,2014,3,78,New York Islanders,Ilya Sorokin,55855,1995-08-04,RUS,"6' 2""",176,L,8478009,G,European Goalie,RUSSIA,Novokuznetsk,136,0
+116,2014,4,94,St. Louis Blues,Ville Husso,34721,1995-02-06,FIN,"6' 3""",205,L,8478024,G,North American Goalie,FINLAND,HIFK,113,0
+117,2014,4,95,New York Islanders,Linus Soderstrom,57932,1996-08-23,SWE,"6' 4""",198,L,8478025,G,European Goalie,SWEDEN-JR.,Djurgarden Jr.,0,0
+118,2014,4,109,Minnesota Wild,Kaapo Kahkonen,55221,1996-08-16,FIN,"6' 2""",216,L,8478039,G,European Goalie,Finland Jr.,Blues Jr.,102,0
+119,2014,4,111,Edmonton Oilers,Zachary Nagelvoort,58364,1994-01-30,USA,"6' 2""",190,L,8478041,G,North American Goalie,BIG10,U. of Michigan,0,0
+120,2014,4,115,Dallas Stars,Brent Moran,54812,1996-07-05,CAN,"6' 4""",201,L,8478045,G,North American Goalie,OHL,Niagara,0,0
+121,2014,4,118,New York Rangers,Igor Shesterkin,55357,1995-12-30,RUS,"6' 1""",187,L,8478048,G,European Goalie,RUSSIA-JR.,Spartak 2,158,0
+122,2014,5,136,Detroit Red Wings,Chase Perry,55602,1996-02-08,USA,"6' 3""",194,L,8478065,G,North American Goalie,NAHL,Wenatchee,0,0
+123,2014,5,150,Los Angeles Kings,Alec Dillon,6172,1996-05-05,CAN,"6' 5""",187,L,8478079,G,North American Goalie,BCHL,Victoria,0,0
+124,2014,6,174,Colorado Avalanche,Maximilian Pajpach,55346,1996-01-04,SVK,"6' 1""",207,L,8478102,G,European Goalie,SLOVAKIA-2,Slovakia U18,0,0
+125,2014,6,177,Montréal Canadiens,Hayden Hawkey,54723,1995-03-01,USA,"6' 1""",186,L,8478105,G,North American Goalie,USHL,Omaha,0,0
+126,2014,6,179,Chicago Blackhawks,Ivan Nalimov,41839,1994-03-12,RUS,"6' 5""",211,L,8478107,G,European Goalie,RUSSIA-JR.,SKA St. Petersburg 2,0,0
+127,2014,7,182,Florida Panthers,Hugo Fagerblom,57306,1996-01-09,SWE,"6' 6""",202,L,8478110,G,European Goalie,SWEDEN-JR. U18,Frolunda U18,0,0
+128,2014,7,183,Edmonton Oilers,Keven Bouchard,58016,1996-04-19,CAN,"6' 2""",204,L,8478111,G,North American Goalie,QMJHL,Val d'Or,0,0
+129,2015,1,22,Washington Capitals,Ilya Samsonov,59764,1997-02-22,RUS,"6' 4""",203,L,8478492,G,European Goalie,RUSSIA-JR.,Magnitogorsk 2,131,0
+130,2015,2,42,New Jersey Devils,Mackenzie Blackwood,54862,1996-12-09,CAN,"6' 4""",224,L,8478406,G,North American Goalie,OHL,Barrie,152,0
+131,2015,3,70,Philadelphia Flyers,Felix Sandstrom,57291,1997-01-12,SWE,"6' 2""",191,L,8478433,G,European Goalie,SWEDEN-JR.,Brynas Jr.,25,0
+132,2015,3,75,Boston Bruins,Dan Vladar,57499,1997-08-20,CZE,"6' 5""",187,L,8478435,G,North American Goalie,CZREP-2,Kladno,55,0
+133,2015,3,76,Arizona Coyotes,Adin Hill,60382,1996-05-11,CAN,"6' 4""",202,L,8478499,G,North American Goalie,WHL,Portland,101,0
+134,2015,3,77,Florida Panthers,Sam Montembeault,59009,1996-10-30,CAN,"6' 3""",191,L,8478470,G,North American Goalie,QMJHL,Blainville-Boisbriand,103,0
+135,2015,3,86,San Jose Sharks,Mike Robinson,65364,1997-03-27,USA,"6' 3""",196,L,8478837,G,North American Goalie,HIGH-MA,Lawrence Academy,0,0
+136,2015,3,90,Philadelphia Flyers,Matej Tomek,59557,1997-05-24,SVK,"6' 3""",185,L,8478489,G,European Goalie,NAHL,Topeka,0,0
+137,2015,4,93,Carolina Hurricanes,Callum Booth,59020,1997-05-21,CAN,"6' 4""",190,L,8478473,G,North American Goalie,QMJHL,Quebec,0,0
+138,2015,4,110,Detroit Red Wings,Joren Van Pottelberghe,62341,1997-06-05,CHE,"6' 3""",201,L,8478847,G,European Goalie,SWEDEN-JR. U18,Linkoping U18,0,0
+139,2015,4,111,Minnesota Wild,Ales Stezka,57082,1997-01-06,CZE,"6' 4""",192,L,8478848,G,European Goalie,CZREP-JR.,Liberec Jr.,0,0
+140,2015,5,145,Nashville Predators,Karel Vejmelka,55353,1996-05-25,CZE,"6' 3""",205,R,8478872,G,European Goalie,CZREP-JR.,Pardubice Jr.,102,0
+141,2015,5,146,St. Louis Blues,Luke Opilka,58815,1997-02-27,USA,"6' 2""",190,L,8478461,G,North American Goalie,USHL,USA U-18,0,0
+142,2015,6,153,Tampa Bay Lightning,Kristian Oldham,58816,1997-06-25,USA,"6' 3""",214,L,8478878,G,North American Goalie,USHL,Omaha,0,0
+143,2015,6,163,Dallas Stars,Markus Ruusu,67037,1997-08-23,FIN,"6' 2""",176,L,8478886,G,European Goalie,Finland Jr.,JYP Jr.,0,0
+144,2015,6,179,Anaheim Ducks,Garrett Metcalf,66107,1996-03-05,USA,"6' 3""",193,L,8478899,G,North American Goalie,USHL,Madison,0,0
+145,2015,7,183,Arizona Coyotes,Erik Kallgren,56615,1996-10-14,SWE,"6' 3""",198,L,8478902,G,European Goalie,SWEDEN-JR.,Linkoping Jr.,24,0
+146,2015,7,184,New York Rangers,Adam Huska,59559,1997-05-12,SVK,"6' 4""",202,L,8478903,G,North American Goalie,USHL,Green Bay,1,0
+147,2015,7,188,Philadelphia Flyers,Ivan Fedotov,60457,1996-11-28,RUS,"6' 6""",207,L,8478905,G,European Goalie,RUSSIA-JR.,Nizhnekamsk 2,0,0
+148,2015,7,193,San Jose Sharks,Jake Kupsky,68637,1995-10-25,NaN,"6' 5""",210,R,8478910,G,North American Goalie,NAHL,Lone Star,0,0
+149,2015,7,199,Ottawa Senators,Joey Daccord,55434,1996-08-19,USA,"6' 2""",197,L,8478916,G,North American Goalie,HIGH-MA,Cushing Academy,19,0
+150,2015,7,205,Nashville Predators,Evan Smith,65805,1997-02-27,USA,"6' 6""",176,L,8478919,G,North American Goalie,NAHL,Austin,0,0
+151,2015,7,206,Florida Panthers,Ryan Bednard,62578,1997-03-31,USA,"6' 4""",192,L,8478920,G,North American Goalie,NAHL,Johnstown,0,0
+152,2015,7,208,Edmonton Oilers,Miroslav Svoboda,57112,1995-03-07,CZE,"6' 3""",176,L,8478922,G,European Goalie,CZREP-JR.,Trinec Jr.,0,0
+153,2016,2,48,Philadelphia Flyers,Carter Hart,64200,1998-08-13,CAN,"6' 2""",186,L,8479394,G,North American Goalie,WHL,Everett,201,1
+154,2016,2,54,Calgary Flames,Tyler Parsons,64784,1997-09-18,USA,"6' 1""",182,L,8479403,G,North American Goalie,OHL,London,0,0
+155,2016,2,55,Pittsburgh Penguins,Filip Gustavsson,65365,1998-06-07,SWE,"6' 2""",190,L,8479406,G,European Goalie,SWEDEN-JR.,Lulea Jr.,66,0
+156,2016,2,59,St. Louis Blues,Evan Fitzpatrick,64403,1998-01-28,CAN,"6' 3""",203,L,8479399,G,North American Goalie,QMJHL,Sherbrooke,0,0
+157,2016,3,62,Toronto Maple Leafs,Joseph Woll,63063,1998-07-12,USA,"6' 3""",202,L,8479361,G,North American Goalie,USHL,USA U-18,11,0
+158,2016,3,75,Carolina Hurricanes,Jack Lafontaine,63871,1998-01-06,CAN,"6' 3""",197,L,8479581,G,North American Goalie,NAHL,Janesville,2,0
+159,2016,3,83,Chicago Blackhawks,Wouter Peeters,71778,1998-07-31,BEL,"6' 5""",206,L,8479582,G,European Goalie,RBHS U20,Ec Salzburg 2,0,0
+160,2016,3,88,Tampa Bay Lightning,Connor Ingram,65794,1997-03-31,CAN,"6' 2""",202,L,8478971,G,North American Goalie,WHL,Kamloops,30,0
+161,2016,4,105,New Jersey Devils,Evan Cormier,59279,1997-11-06,CAN,"6' 2""",216,L,8479331,G,North American Goalie,OHL,Saginaw,0,0
+162,2016,5,123,Edmonton Oilers,Dylan Wells,63852,1998-01-03,CAN,"6' 2""",193,L,8479380,G,North American Goalie,OHL,Peterborough,1,0
+163,2016,5,128,Dallas Stars,Colton Point,64082,1998-03-04,CAN,"6' 4""",219,L,8479589,G,North American Goalie,CCHL,Carleton Place,0,0
+164,2016,5,131,Colorado Avalanche,Adam Werner,59577,1997-05-02,SWE,"6' 5""",198,L,8479530,G,European Goalie,SWEDEN-JR.,Farjestad Jr.,2,0
+165,2016,5,134,Carolina Hurricanes,Jeremy Helvig,59243,1997-05-25,CAN,"6' 4""",211,L,8479532,G,North American Goalie,OHL,Kingston,0,0
+166,2016,6,155,Columbus Blue Jackets,Peter Thome,67188,1997-05-24,USA,"6' 4""",206,L,8479592,G,North American Goalie,NAHL,Aberdeen,0,0
+167,2016,6,157,Winnipeg Jets,Mikhail Berdin,66378,1998-03-01,RUS,"6' 2""",180,L,8479574,G,European Goalie,RUSSIA-JR.,Team Russia U18,0,0
+168,2016,6,167,Detroit Red Wings,Filip Larsson,68026,1998-08-17,SWE,"6' 2""",196,L,8479548,G,European Goalie,SWEDEN-JR.,Djurgarden Jr.,0,0
+169,2016,6,168,Nashville Predators,Konstantin Volkov,59765,1997-09-20,RUS,"6' 3""",211,L,8479549,G,European Goalie,RUSSIA-JR.,SKA St. Petersburg 2,0,0
+170,2016,6,174,New York Rangers,Tyler Wall,63956,1998-01-14,CAN,"6' 3""",202,L,8479596,G,North American Goalie,GOJHL,Leamington,0,0
+171,2017,1,26,Dallas Stars,Jake Oettinger,63373,1998-12-18,USA,"6' 4""",218,L,8479979,G,North American Goalie,H-EAST,Boston University,139,0
+172,2017,2,54,Buffalo Sabres,Ukko-Pekka Luukkonen,69395,1999-03-09,FIN,"6' 4""",198,L,8480045,G,North American Goalie,Finland Jr.,HPK Jr.,46,0
+173,2017,3,64,Vancouver Canucks,Michael Dipietro,68095,1999-06-09,CAN,"6' 0""",205,L,8480022,G,North American Goalie,OHL,Windsor,3,0
+174,2017,3,72,Los Angeles Kings,Matt Villalta,73701,1999-06-03,CAN,"6' 2""",165,L,8480191,G,North American Goalie,OHL,Sault Ste. Marie,0,0
+175,2017,3,78,Edmonton Oilers,Stuart Skinner,60980,1998-11-01,CAN,"6' 3""",200,L,8479973,G,North American Goalie,WHL,Lethbridge,64,0
+176,2017,3,80,Philadelphia Flyers,Kirill Ustimenko,71471,1999-01-29,BLR,"6' 3""",187,L,8480279,G,European Goalie,RUSSIA-JR.,Dynamo St. Petersburg 2,0,0
+177,2017,3,86,Columbus Blue Jackets,Daniil Tarasov,70814,1999-03-27,RUS,"6' 5""",185,L,8480193,G,European Goalie,RUSSIA-JR.,Ufa 2,21,0
+178,2017,3,88,Detroit Red Wings,Keith Petruzzelli,62767,1999-02-09,USA,"6' 5""",174,L,8479975,G,North American Goalie,USHL,Muskegon,0,0
+179,2017,4,96,Vegas Golden Knights,Maksim Zhukov,69080,1999-07-22,RUS,"6' 3""",192,L,8480040,G,European Goalie,USHL,Green Bay,0,0
+180,2017,4,104,Carolina Hurricanes,Eetu Makiniemi,69254,1999-04-19,FIN,"6' 2""",176,L,8480199,G,European Goalie,Finland Jr.,Jokerit Jr.,2,0
+181,2017,4,110,Toronto Maple Leafs,Ian Scott,64270,1999-01-11,CAN,"6' 3""",169,L,8479993,G,North American Goalie,WHL,Prince Albert,0,0
+182,2017,4,111,Boston Bruins,Jeremy Swayman,72167,1998-11-24,USA,"6' 2""",187,L,8480280,G,North American Goalie,USHL,Sioux Falls,88,0
+183,2017,4,114,Colorado Avalanche,Petr Kvaca,63804,1997-09-12,CZE,"6' 1""",185,L,8480282,G,European Goalie,CZREP-2,C. Budejovice,0,0
+184,2017,5,129,New Jersey Devils,Gilles Senn,57064,1996-03-01,CHE,"6' 5""",191,R,8480213,G,European Goalie,SWISS,Davos,2,0
+185,2017,5,153,Anaheim Ducks,Olle Eriksson Ek,69102,1999-06-22,SWE,"6' 3""",185,L,8480042,G,European Goalie,SWEDEN-JR.,Farjestad Jr.,1,0
+186,2017,5,154,Nashville Predators,Tomas Vomacka,69018,1999-05-02,CZE,"6' 3""",180,L,8480233,G,North American Goalie,NAHL,Corpus Christi,0,0
+187,2017,6,161,Vegas Golden Knights,Jiri Patera,69732,1999-02-24,CZE,"6' 2""",208,L,8480238,G,North American Goalie,CZREP-JR.,C. Budejovice Jr.,2,0
+188,2017,6,167,Winnipeg Jets,Arvid Holm,72730,1998-11-03,SWE,"6' 4""",213,L,8480244,G,European Goalie,SWEDEN-JR.,Karlskrona Jr.,0,0
+189,2017,6,183,Ottawa Senators,Jordan Hollett,64274,1999-03-31,CAN,"6' 4""",194,L,8480254,G,North American Goalie,WHL,Regina,0,0
+190,2017,7,194,Dallas Stars,Dylan Ferguson,64207,1998-09-20,CAN,"6' 1""",189,L,8480263,G,North American Goalie,WHL,Kamloops,3,0
+191,2017,7,199,Montréal Canadiens,Cayden Primeau,63816,1999-08-11,USA,"6' 3""",198,L,8480051,G,North American Goalie,USHL,Lincoln,21,0
+192,2018,2,39,New York Rangers,Olof Lindbom,72022,2000-07-23,SWE,"6' 2""",183,L,8481015,G,European Goalie,SWEDEN-JR.,Djurgarden Jr.,0,0
+193,2018,2,62,Edmonton Oilers,Olivier Rodrigue,72994,2000-07-06,CAN,"6' 1""",156,L,8480885,G,North American Goalie,QMJHL,Drummondville,0,0
+194,2018,3,64,Colorado Avalanche,Justus Annunen,73210,2000-03-11,FIN,"6' 4""",209,L,8481020,G,European Goalie,FINLAND-JR.,Karpat Jr.,4,0
+195,2018,3,72,New York Islanders,Jakub Skarek,69017,1999-11-10,CZE,"6' 3""",192,L,8480819,G,European Goalie,CZREP,Jihlava,0,0
+196,2018,3,84,Detroit Red Wings,Jesper Eliasson,80820,2000-03-21,SWE,"6' 3""",209,L,8481023,G,European Goalie,SWEDEN-JR. 2,Troja-Ljungby Jr.,0,0
+197,2018,3,85,Anaheim Ducks,Lukas Dostal,72054,2000-06-22,CZE,"6' 1""",166,L,8480843,G,European Goalie,CZREP-2,Trebic,23,0
+198,2018,4,107,St. Louis Blues,Joel Hofer,79928,2000-07-30,CAN,"6' 4""",174,L,8480981,G,North American Goalie,WHL,Swift Current,8,0
+199,2018,4,114,Arizona Coyotes,Ivan Prosvetov,74120,1999-03-05,RUS,"6' 5""",180,L,8481031,G,North American Goalie,USHL,Youngstown,13,0
+200,2018,4,124,Washington Capitals,Mitchell Gibson,68305,1999-06-25,USA,"6' 1""",189,L,8481064,G,North American Goalie,NAHL,Lone Star,0,0
+201,2018,5,136,New Jersey Devils,Akira Schmid,75112,2000-05-12,CHE,"6' 5""",205,L,8481033,G,North American Goalie,SWISS-JR.,Langnau Jr.,24,0
+202,2018,5,143,Philadelphia Flyers,Samuel Ersson,70890,1999-10-20,SWE,"6' 2""",176,L,8481035,G,European Goalie,SWEDEN-JR.,Brynas Jr.,12,0
+203,2018,5,144,Los Angeles Kings,David Hrenak,65259,1998-05-05,SVK,"6' 2""",192,L,8481069,G,North American Goalie,NCHC,St. Cloud State,0,0
+204,2018,5,147,Anaheim Ducks,Roman Durny,67569,1998-05-28,SVK,"6' 2""",214,R,8481036,G,North American Goalie,USHL,Des Moines,0,0
+205,2018,5,152,Tampa Bay Lightning,Magnus Chrona,71127,2000-08-28,SWE,"6' 4""",209,L,8480992,G,European Goalie,SWE-JR. U18,Nacka,0,0
+206,2018,6,157,Ottawa Senators,Kevin Mandolese,73004,2000-08-22,CAN,"6' 4""",188,L,8480867,G,North American Goalie,QMJHL,Cape Breton,3,0
+207,2018,6,158,Arizona Coyotes,David Tendeck,64390,1999-11-25,CAN,"6' 1""",173,R,8480996,G,North American Goalie,WHL,Vancouver,0,0
+208,2018,6,160,Detroit Red Wings,Victor Brattstrom,66563,1997-03-22,SWE,"6' 5""",200,L,8480997,G,European Goalie,SWEDEN-JR.,Timra Jr.,0,0
+209,2018,6,162,Chicago Blackhawks,Alexis Gravel,73011,2000-03-21,DEU,"6' 3""",219,R,8480868,G,North American Goalie,QMJHL,Halifax,0,0
+210,2018,6,173,Columbus Blue Jackets,Veini Vehvilainen,57447,1997-02-13,FIN,"6' 1""",183,R,8481001,G,European Goalie,FINLAND,Karpat,1,0
+211,2018,6,175,Los Angeles Kings,Jacob Ingham,72819,2000-06-10,CAN,"6' 4""",195,L,8480857,G,North American Goalie,OHL,Mississauga,0,0
+212,2018,6,176,San Jose Sharks,Zachary Emond,73044,2000-06-20,CAN,"6' 3""",177,L,8481002,G,North American Goalie,QMJHL,Rouyn-Noranda,0,0
+213,2018,6,184,Winnipeg Jets,Jared Moe,73192,1999-07-22,USA,"6' 3""",205,R,8481044,G,North American Goalie,USHL,Waterloo,0,0
+214,2018,7,192,Vancouver Canucks,Matthew Thiessen,80901,2000-06-09,CAN,"6' 2""",208,L,8481080,G,North American Goalie,MJHL,Steinbach,0,0
+215,2018,7,197,Carolina Hurricanes,Jacob Kucharski,72514,1999-09-25,USA,"6' 4""",222,L,8481050,G,North American Goalie,USHL,Des Moines,0,0
+216,2018,7,202,Colorado Avalanche,Shamil Shmakov,73741,1999-07-27,RUS,"6' 6""",196,L,8481007,G,European Goalie,RUSSIA-JR.,Novosibirsk 2,0,0
+217,2018,7,208,Vegas Golden Knights,Jordan Kooy,75327,2000-04-30,CAN,"6' 3""",194,L,8481010,G,North American Goalie,OHL,London,0,0
+218,2018,7,209,Toronto Maple Leafs,Zachary Bouthillier,68684,1999-11-08,CAN,"6' 2""",193,L,8481011,G,North American Goalie,QMJHL,Chicoutimi,0,0
+219,2018,7,213,Nashville Predators,Milan Kloucek,67251,1998-04-30,CZE,"6' 3""",196,L,8481055,G,European Goalie,CZREP,Pardubice,0,0
+220,2018,7,214,Tampa Bay Lightning,Ty Taylor,74767,1999-07-05,CAN,"6' 3""",196,L,8481083,G,North American Goalie,BCHL,Vernon,0,0
